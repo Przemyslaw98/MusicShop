@@ -14,9 +14,9 @@ namespace MusicShop.Controllers
         //{
         //    return View();
         //}
-        public string Index()
+        public ActionResult Index()
         {
-            return "Hello from Home";
+            return View();
         }
     }
 }
