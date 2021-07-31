@@ -33,7 +33,8 @@ namespace MusicShop.Models
 
 
         [DisplayName("Album Art URL")]
-        [StringLength(1024)] public string AlbumArtUrl { get; set; }
+        [StringLength(1024)]
+        public string AlbumArtUrl { get; set; }
         
         
         public virtual Genre Genre { get; set; }
