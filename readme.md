@@ -1,3 +1,3 @@
-﻿### Things to fix: ###
-- Removing from cart
-- Redirecting to login page
+﻿### Things to do: ###
+- Fix removing from cart
+- Implement user roles
